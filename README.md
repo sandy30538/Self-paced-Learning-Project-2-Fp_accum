@@ -45,7 +45,7 @@ The github repository for hls projects - Floating-Point Accumulator
 
 
 ## Algorithm
-There are 128 floatin-point values and we want to accumulate them all to get the final result;  
+There are 128 floating-point values and we want to accumulate them all to get the final result.  
 
 ## References
 * [Xilinx HLx_Examples](https://github.com/Xilinx/HLx_Examples)
